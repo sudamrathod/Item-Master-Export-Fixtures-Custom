@@ -1,0 +1,47 @@
+{
+ "actions": [],
+ "allow_rename": 1,
+ "creation": "2025-01-30 17:56:31.196599",
+ "doctype": "DocType",
+ "engine": "InnoDB",
+ "field_order": [
+  "pack_type",
+  "description"
+ ],
+ "fields": [
+  {
+   "fieldname": "pack_type",
+   "fieldtype": "Data",
+   "label": "Pack Type"
+  },
+  {
+   "fieldname": "description",
+   "fieldtype": "Long Text",
+   "label": "Description"
+  }
+ ],
+ "index_web_pages_for_search": 1,
+ "links": [],
+ "modified": "2025-01-31 14:27:52.874168",
+ "modified_by": "Administrator",
+ "module": "Item Master",
+ "name": "Pack Type",
+ "owner": "Administrator",
+ "permissions": [
+  {
+   "create": 1,
+   "delete": 1,
+   "email": 1,
+   "export": 1,
+   "print": 1,
+   "read": 1,
+   "report": 1,
+   "role": "System Manager",
+   "share": 1,
+   "write": 1
+  }
+ ],
+ "sort_field": "modified",
+ "sort_order": "DESC",
+ "states": []
+}
