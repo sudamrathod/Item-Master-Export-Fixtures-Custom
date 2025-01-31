@@ -1,6 +1,6 @@
 ## Item Master
 
-it is a item master export fixture app
+IM
 
 #### License
 

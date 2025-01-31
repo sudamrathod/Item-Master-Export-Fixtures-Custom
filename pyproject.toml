@@ -3,7 +3,7 @@ name = "item_master"
 authors = [
     { name = "sudam", email = "sudamrathod022@gmail.com"}
 ]
-description = "it is a item master export fixture app"
+description = "IM"
 requires-python = ">=3.10"
 readme = "README.md"
 dynamic = ["version"]

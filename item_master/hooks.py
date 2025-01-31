@@ -1,7 +1,7 @@
 app_name = "item_master"
 app_title = "Item Master"
 app_publisher = "sudam"
-app_description = "it is a item master export fixture app"
+app_description = "IM"
 app_email = "sudamrathod022@gmail.com"
 app_license = "mit"
 # required_apps = []
