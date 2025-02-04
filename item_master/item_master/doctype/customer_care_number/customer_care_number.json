@@ -2,20 +2,18 @@
  "actions": [],
  "allow_import": 1,
  "allow_rename": 1,
- "creation": "2025-01-30 17:44:45.032753",
+ "creation": "2025-02-04 17:41:33.847771",
  "doctype": "DocType",
  "engine": "InnoDB",
  "field_order": [
-  "material_type",
+  "customer_care_number",
   "description"
  ],
  "fields": [
   {
-   "fieldname": "material_type",
+   "fieldname": "customer_care_number",
    "fieldtype": "Data",
-   "in_list_view": 1,
-   "label": "Material Type",
-   "reqd": 1
+   "label": "Customer Care Number "
   },
   {
    "fieldname": "description",
@@ -25,10 +23,10 @@
  ],
  "index_web_pages_for_search": 1,
  "links": [],
- "modified": "2025-02-04 14:24:09.952731",
+ "modified": "2025-02-04 17:56:39.335114",
  "modified_by": "Administrator",
  "module": "Item Master",
- "name": "Material Type",
+ "name": "Customer Care Number",
  "owner": "Administrator",
  "permissions": [
   {

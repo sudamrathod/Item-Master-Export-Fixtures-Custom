@@ -1,5 +1,6 @@
 {
  "actions": [],
+ "allow_import": 1,
  "allow_rename": 1,
  "creation": "2025-01-30 17:06:06.498989",
  "doctype": "DocType",
@@ -24,7 +25,7 @@
  ],
  "index_web_pages_for_search": 1,
  "links": [],
- "modified": "2025-01-31 14:26:34.250981",
+ "modified": "2025-02-04 14:26:44.723709",
  "modified_by": "Administrator",
  "module": "Item Master",
  "name": "Color Name",

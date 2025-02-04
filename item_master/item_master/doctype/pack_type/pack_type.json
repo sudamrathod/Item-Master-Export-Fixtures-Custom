@@ -1,5 +1,6 @@
 {
  "actions": [],
+ "allow_import": 1,
  "allow_rename": 1,
  "creation": "2025-01-30 17:56:31.196599",
  "doctype": "DocType",
@@ -22,7 +23,7 @@
  ],
  "index_web_pages_for_search": 1,
  "links": [],
- "modified": "2025-01-31 14:27:52.874168",
+ "modified": "2025-02-04 14:24:36.869528",
  "modified_by": "Administrator",
  "module": "Item Master",
  "name": "Pack Type",

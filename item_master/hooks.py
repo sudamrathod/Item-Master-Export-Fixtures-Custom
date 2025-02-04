@@ -228,3 +228,18 @@ app_license = "mit"
 # }
 
 
+fixtures = [
+    {
+        "dt": "DocType",
+        "filters": [
+            ["name", "in", ["Item"]]
+        ]
+    },
+    {
+        "dt": "Custom Field",
+        "filters": [
+            ["dt", "=", "Item"]
+        ]
+    }
+]
+

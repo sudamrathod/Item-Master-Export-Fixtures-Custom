@@ -1,5 +1,6 @@
 {
  "actions": [],
+ "allow_import": 1,
  "allow_rename": 1,
  "creation": "2025-01-30 17:01:21.879142",
  "doctype": "DocType",
@@ -24,7 +25,7 @@
  ],
  "index_web_pages_for_search": 1,
  "links": [],
- "modified": "2025-01-31 14:26:18.416048",
+ "modified": "2025-02-04 14:27:00.600609",
  "modified_by": "Administrator",
  "module": "Item Master",
  "name": "Character",
